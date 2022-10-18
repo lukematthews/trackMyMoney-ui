@@ -1,0 +1,22 @@
+.labelName {
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+  margin-right: 10px;
+}
+
+.nameLeft {
+  text-align: left;
+  width: 60%;
+}
+.nameRight {
+  text-align: right;
+  width: 40%;
+}
+.labelBody {
+  background-color: #e7f1ff;
+}
+
+.selectedLabelsTitle {
+  background-color: #6e27c2;
+}

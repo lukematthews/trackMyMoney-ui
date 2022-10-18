@@ -1,0 +1,30 @@
+.centred {
+    text-align: center;
+}
+
+.description {
+    font-size: 10pt;
+    padding: 5px;
+}
+
+.red-border-right {
+    border-right: 4px solid black;
+}
+
+.clock-digits {
+    background-color: #B0B0B0;
+}
+
+.copyright {
+    font-size: 11px;
+    text-align: right;   
+}
+
+.start-description {
+    vertical-align: top;
+    max-width: 100px;
+}
+
+.center { 
+    text-align: center;
+}
